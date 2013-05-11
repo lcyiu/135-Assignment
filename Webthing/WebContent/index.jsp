@@ -10,7 +10,7 @@
 <fieldset>
 <legend>Testing Simple Pages</legend>
 <ul>
-  <li><a href="Login Page.html">Login Page.html</a> Simple HTML page.</li>
+  <li><a href="Login.jsp">Login Page.html</a> Simple HTML page.</li>
   <li><a href="Signup Page.html">Signup Page.html</a> Simple JSP page.</li>
 </ul>
 </fieldset>
